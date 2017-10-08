@@ -1,0 +1,35 @@
+Test,Number,Emotion,Strength,Multiple,Quadrant,Index,Emotion,Emotion_w_strength
+B1,200,Contentment,4,0,SE,20,20,100
+B1,201,Amusement,4,0,NE,4,4,84
+B1,202,Pleasure,4,0,NE,1,1,81
+B1,203,Happiness/Joy,4,0,NE,2,2,82
+B1,204,Happiness/Joy,5,0,NE,2,2,102
+B1,205,Happiness/Joy,5,0,NE,2,2,102
+B1,206,No Emotion,0,0,0,0,0,0
+B1,207,Pride,5,0,NE,3,3,103
+B1,208,Admiration,4,0,SE,18,18,98
+B1,209,Happiness/Joy,3,0,NE,2,2,62
+B1,210,No Emotion,0,0,0,0,0,0
+B1,211,No Emotion,0,0,0,0,0,0
+B1,212,No Emotion,0,0,0,0,0,0
+B2,213,Happiness/Joy,3,0,NE,2,2,62
+B2,214,Other,0,0,0,151,151,151
+B2,215,Disappointment,1,0,SW,11,11,31
+B2,216,Disgust,4,0,NW,9,9,89
+B2,217,Happiness/Joy,5,0,NE,2,2,102
+B2,218,Pride,3,0,NE,3,3,63
+B2,219,Happiness/Joy,4,0,NE,2,2,82
+B2,220,Happiness/Joy,3,0,NE,2,2,62
+B2,221,Happiness/Joy,2,0,NE,2,2,42
+B2,222,Happiness/Joy,3,0,NE,2,2,62
+B2,223,Pleasure,4,0,NE,1,1,81
+B2,224,Other,0,0,0,151,151,151
+B2,225,Contentment,4,0,SE,20,20,100
+B2,226,Guilt,4,0,SW,14,14,94
+B3,227,No Emotion,0,0,0,0,0,0
+B3,228,No Emotion,0,0,0,0,0,0
+B3,229,No Emotion,0,0,0,0,0,0
+B3,230,No Emotion,0,0,0,0,0,0
+B3,231,No Emotion,0,0,0,0,0,0
+B3,232,No Emotion,0,0,0,0,0,0
+B3,233,Pride,5,0,NE,3,3,103

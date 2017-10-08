@@ -1,0 +1,24 @@
+Test,Number,Emotion,Strength,Multiple,Quadrant,Index,Emotion,Emotion_w_strength
+C2,6,Anger,5,0,NW,6,6,106
+C2,7,Anger,5,0,NW,6,6,106
+C2,8,No Emotion,0,0,0,0,0,0
+C2,9,Anger,5,0,NW,6,6,106
+C2,10,Anger,5,0,NW,6,6,106
+C3,11,Anger,4,0,NW,6,6,86
+C3,12,Anger,3,0,NW,6,6,66
+C3,13,Anger,4,0,NW,6,6,86
+C3,14,Anger,5,0,NW,6,6,106
+C3,15,*Anger,4,1,NW,6,6,86
+C3,16,Anger,5,0,NW,6,6,106
+C3,17,Anger,4,0,NW,6,6,86
+C3,18,Disappointment,5,0,SW,11,11,111
+C3,19,Anger,5,0,NW,6,6,106
+C4,20,Hate,2,0,NW,7,7,47
+C4,21,Anger,2,0,NW,6,6,46
+C4,22,Anger,4,0,NW,6,6,86
+C4,23,Anger,3,0,NW,6,6,66
+C4,24,Anger,4,0,NW,6,6,86
+C4,25,Anger,4,0,NW,6,6,86
+C4,26,Hate,4,0,NW,7,7,87
+C4,27,Anger,4,0,NW,6,6,86
+C4,28,Anger,3,0,NW,6,6,66

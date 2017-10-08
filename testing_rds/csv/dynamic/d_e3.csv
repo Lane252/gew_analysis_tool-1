@@ -1,0 +1,35 @@
+Test,Number,Emotion,Strength,Multiple,Quadrant,Index,Emotion,Emotion_w_strength
+B1,200,Interest,4,0,NE,5,5,85
+B1,201,Other,0,0,0,151,151,151
+B1,202,Other,0,0,0,151,151,151
+B1,203,Other,0,0,0,151,151,151
+B1,204,Other,0,0,0,151,151,151
+B1,205,Regret,4,0,SW,13,13,93
+B1,206,Regret,3,0,SW,13,13,73
+B1,207,Fear,2,0,NW,10,10,50
+B1,208,Fear,2,0,NW,10,10,50
+B1,209,Other,0,0,0,151,151,151
+B1,210,Sadness,4,0,SW,15,15,95
+B1,211,Sadness,4,0,SW,15,15,95
+B1,212,Sadness,4,0,SW,15,15,95
+B2,213,Other,0,0,0,151,151,151
+B2,214,No Emotion,0,0,0,0,0,0
+B2,215,No Emotion,0,0,0,0,0,0
+B2,216,No Emotion,0,0,0,0,0,0
+B2,217,Fear,4,0,NW,10,10,90
+B2,218,Other,0,0,0,151,151,151
+B2,219,Disappointment,3,0,SW,11,11,71
+B2,220,Interest,3,0,NE,5,5,65
+B2,221,Other,0,0,0,151,151,151
+B2,222,Other,0,0,0,151,151,151
+B2,223,Fear,4,0,NW,10,10,90
+B2,224,No Emotion,0,0,0,0,0,0
+B2,225,Interest,4,0,NE,5,5,85
+B2,226,Regret,5,0,SW,13,13,113
+B3,227,Amusement,4,0,NE,4,4,84
+B3,228,No emotion,0,0,0,0,0,0
+B3,229,Other,0,0,0,151,151,151
+B3,230,Guilt,3,0,SW,14,14,74
+B3,231,Sadness,5,0,SW,15,15,115
+B3,232,Compassion,0,0,SE,16,16,16
+B3,233,Sadness,5,0,SW,15,15,115

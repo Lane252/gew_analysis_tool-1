@@ -1,0 +1,35 @@
+Test,Number,Emotion,Strength,Multiple,Quadrant,Index,Emotion,Emotion_w_strength
+A1,100,Anger,2,0,NW,6,6,46
+A1,101,Other,0,0,0,151,151,151
+A1,102,No Emotion,0,0,0,0,0,0
+A1,103,Contentment,1,0,SE,20,20,40
+A1,104,No Emotion,0,0,0,0,0,0
+A1,105,No Emotion,0,0,0,0,0,0
+A1,106,No Emotion,0,0,0,0,0,0
+A1,107,Disappointment,1,0,SW,11,11,31
+A2,108,Hate,2,0,NW,7,7,47
+A2,109,Shame,4,0,SW,12,12,92
+A2,110,Disgust,4,0,NW,9,9,89
+A2,111,Relief,3,0,SE,17,17,77
+A2,112,Disgust,5,0,NW,9,9,109
+A2,113,Shame,3,0,SW,12,12,72
+A2,114,Contentment,5,0,SE,20,20,120
+A2,115,Disappointment,3,0,SW,11,11,71
+A2,116,No Emotion,0,0,0,0,0,0
+A2,117,Other,0,0,0,151,151,151
+A2,118,Guilt,5,0,SW,14,14,114
+A2,119,Anger,3,0,NW,6,6,66
+A2,120,Guilt,2,0,SW,14,14,54
+A2,121,Anger,3,0,NW,6,6,66
+A2,122,Anger,3,0,NW,6,6,66
+A2,123,No Emotion,0,0,0,0,0,0
+A2,124,No Emotion,0,0,0,0,0,0
+A2,125,Disgust,2,0,NW,9,9,49
+A2,126,No Emotion,0,0,0,0,0,0
+A2,127,No Emotion,0,0,0,0,0,0
+A3,128,Hate,5,0,NW,7,7,107
+A3,129,Regret,1,0,SW,13,13,33
+A3,130,Hate,3,0,NW,7,7,67
+A3,131,Disappointment,2,0,SW,11,11,51
+A3,132,Amusement,3,0,NE,4,4,64
+A3,133,Regret,3,0,SW,13,13,73

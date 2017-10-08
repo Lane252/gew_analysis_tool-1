@@ -1,0 +1,28 @@
+Test,Number,Emotion,Strength,Multiple,Quadrant,Index,Emotion,Emotion_w_strength
+A1,600,Amusement,3,0,NE,4,4,64
+A1,601,Interest,1,0,NE,5,5,25
+A1,602,No emotion,,0,0,0,0,0
+A1,603,Contempt,1,0,NW,8,8,28
+A1,604,Contempt,2,0,NW,8,8,48
+A1,605,Amusement,1,0,NE,4,4,24
+A1,606,No emotion,,0,0,0,0,0
+A1,607,No emotion,,0,0,0,0,0
+A1,608,Amusement,4,0,NE,4,4,84
+A1,609,Amusement,5,0,NE,4,4,104
+A1,610,Disappointment,1,0,SW,11,11,31
+A2,611,Contempt,1,0,NW,8,8,28
+A2,612,Admiration,2,0,SE,18,18,58
+A2,613,Disgust,1,0,NW,9,9,29
+A2,614,Guilt,2,0,SW,14,14,54
+A2,615,Shame,3,0,SW,12,12,72
+A2,616,Amusement,1,0,NE,4,4,24
+A2,617,Pride,3,0,NE,3,3,63
+A2,618,Love,1,0,SE,19,19,39
+A2,619,Amusement,4,0,NE,4,4,84
+A2,620,Contentment,1,0,SE,20,20,40
+A2,621,Happiness/Joy,4,0,NE,2,2,82
+A3,622,Amusement,4,0,NE,4,4,84
+A3,623,Pleasure,3,0,NE,1,1,61
+A3,624,No emotion,,0,0,0,0,0
+A3,625,Amusement,3,0,NE,4,4,64
+A3,626,Amusement,3,0,NE,4,4,64

@@ -1,0 +1,20 @@
+Test,Number,Emotion,Strength,Multiple,Quadrant,Index,Emotion,Emotion_w_strength
+C4,20,Fear,3,0,NW,10,10,70
+C4,21,No emotion,0,0,0,0,0,0
+C4,22,Disgust,3,1,NW,9,9,69
+C4,23,Sadness,4,0,SW,15,15,95
+C4,24,Disappointment,4,0,SW,11,11,91
+C4,25,Disappointment,4,0,SW,11,11,91
+C4,26,Disappointment,3,0,SW,11,11,71
+C4,27,Disappointment,4,0,SW,11,11,91
+C4,28,Disappointment,2,0,SW,11,11,51
+C5,29,Disgust,5,0,NW,9,9,109
+C5,30,Hate,4,0,NW,7,7,87
+C5,31,Disgust,5,0,NW,9,9,109
+C5,32,Shame,3,0,SW,12,12,72
+C5,33,Shame,3,0,SW,12,12,72
+C6,34,Disgust,2,0,NW,9,9,49
+C6,35,Disappointment,5,0,SW,11,11,111
+C6,36,Regret,4,0,SW,13,13,93
+C6,37,Fear,2,0,NW,10,10,50
+,,,,,,,,

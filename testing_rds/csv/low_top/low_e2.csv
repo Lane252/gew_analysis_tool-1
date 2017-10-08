@@ -1,0 +1,20 @@
+Test,Number,Emotion,Strength,Multiple,Quadrant,Index,Emotion,Emotion_w_strength
+C1,1,No emotion,0,0,0,0,0,0
+C1,2,Happiness/Joy,3,0,NE,2,2,62
+C1,3,Love,4,0,SE,19,19,99
+C1,4,Happiness/Joy,1,0,NE,2,2,22
+C1,5,Happiness/Joy,1,0,NE,2,2,22
+C5,29,Happiness/Joy,2,0,NE,2,2,42
+C5,30,Happiness/Joy,3,0,NE,2,2,62
+C5,31,Happiness/Joy,3,0,NE,2,2,62
+C5,32,Happiness/Joy,3,0,NE,2,2,62
+C5,33,Happiness/Joy,4,0,NE,2,2,82
+C6,34,Contentment,3,0,SE,20,20,80
+C6,35,Contentment,5,0,SE,20,20,120
+C6,36,Contentment,3,0,SE,20,20,80
+C6,37,Contentment,3,0,SE,20,20,80
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
